@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://raw.githubusercontent.com/Ankitsh2698/Ankitsh2698/master/gh-header-image-cropped-as.png" alt="banner">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Ankitsh2698&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
