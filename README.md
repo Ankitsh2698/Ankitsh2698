@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ## ⚙📃 Statistics and Languages 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitsh2698&layout=compact&theme=radical)](https://github.com/Ankitsh2698/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=Ankitsh2698&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" >
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitsh2698&layout=compact&theme=great-gatsby&langs_count=10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ankitsh2698&show_icons=true&include_all_commits=true&theme=great-gatsby" alt="Ankit's github stats" />
+</p>
 
