@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://raw.githubusercontent.com/Ankitsh2698/Ankitsh2698/master/gh-header-image-cropped-as.png" alt="banner">
+<img src="https://raw.githubusercontent.com/Ankitsh2698/Ankitsh2698/master/gh-header-image-croppe-as.png" alt="banner">
 
 
 
